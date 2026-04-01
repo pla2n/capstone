@@ -56,6 +56,6 @@
 
 ## 👥 팀원 (Authors)
 
-  * **이세용 (Se-yong Lee)** - rred5899@yu.ac.kr
-  * **최정민 (Jeong-min Choi)** - snapflip20@gmail.com
+  * **이세용 (Se-yong Lee)**
+  * **최정민 (Jeong-min Choi)**
 -----
